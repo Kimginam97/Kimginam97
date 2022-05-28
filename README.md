@@ -1,6 +1,11 @@
 ### 안녕하세요 몰입할 문제를 찾고있는 주니어개발자 입니다 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
+![Kimginam97's github stats](https://github-readme-stats.vercel.app/api?username=Kimginam97&show_icons=true&theme=merko)
+* 공부한 내용을 깃허브나 블로그에 기록하고 있습니다  [블로그 이동하기](https://dudurian.tistory.com/)
+* 협업과 커뮤니케이션을 중요하게 생각합니다
+* Clean Code 와 Test Code 고민을 많이하고 있습니다
+
 #### My tech stack 📚
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
