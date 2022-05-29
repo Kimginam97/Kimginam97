@@ -2,6 +2,8 @@
 <br />
 
 ![Kimginam97's github stats](https://github-readme-stats.vercel.app/api?username=Kimginam97&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimginam97&layout=compact&theme=tokyonight)
+
 * 공부한 내용을 깃허브나 블로그에 기록하고 있습니다  [블로그 이동하기](https://dudurian.tistory.com/)
 * 협업과 커뮤니케이션을 중요하게 생각합니다
 * Clean Code 와 Test Code 고민을 많이하고 있습니다
