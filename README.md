@@ -1,4 +1,4 @@
-### 안녕하세요 몰입할 문제를 찾고있는 주니어개발자 입니다 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### 안녕하세요 몰입할 문제를 찾고있는 주니어개발자 입니다 👋
 <br />
 
 ![Kimginam97's github stats](https://github-readme-stats.vercel.app/api?username=Kimginam97&show_icons=true&theme=merko)
